@@ -23,7 +23,7 @@
 ┌────────────────────────────────────────────────────────┐
 │ name: aryan pahade                                     │
 │ handle: @akitoosama                                    │
-│ main stack: zig, python, neovim, zsh, tmux             │
+│ stack: zig, python, tailwind css, javascript, gdscript │
 │ learning: shaders, ascii-rendering, game making        │
 │ collab: project + rice configs                         │
 │ contact: akitoomusic@gmail.com                         │
