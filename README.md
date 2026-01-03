@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=welcome+to+my+pretty+terminal+~;@AkitooSama;arch+linux+btw+%7C+hyprland+%7C+zsh+%7C+neovim;i+love+ascii+%3C3"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=welcome+to+my+pretty+terminal+~;@akitookun;arch+linux+btw+%7C+hyprland+%7C+zsh+%7C+neovim;i+love+ascii+%3C3"
     alt="Typing SVG"
   />
 </h1>
@@ -22,7 +22,7 @@
       <pre>
 ┌────────────────────────────────────────────────────────┐
 │ name: aryan pahade                                     │
-│ handle: @akitoosama                                    │
+│ handle: @akitookun                                     │
 │ stack: zig, python, tailwind css, javascript, gdscript │
 │ learning: shaders, ascii-rendering, game making        │
 │ collab: project + rice configs                         │
@@ -38,6 +38,6 @@
 </table>
 
 <!---
-AkitooSama/AkitooSama is a special repository because its README.md
+akitookun/akitookun is a special repository because its README.md
 appears on your GitHub profile. Preview this in dark mode — that's where it lives.
 --->
