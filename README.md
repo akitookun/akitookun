@@ -8,9 +8,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,neovim,zig,python,godot" /><br/><br/>
 
-  <img src="https://img.shields.io/badge/Arch-<3-1793d1?style=flat&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/WM-Hyprland-88c0d0?style=flat&logo=wayland&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell-Zsh-ffb6c1?style=flat&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Void<3-1793d1?style=flat&logo=Void-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/WM-River-88c0d0?style=flat&logo=wayland&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell-Fish-ffb6c1?style=flat&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Aesthetic-terminalcore-ff69b4?style=flat&logoColor=white">
 </div>
 
